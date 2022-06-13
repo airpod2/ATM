@@ -12,6 +12,7 @@ Thus account balance can be represented in integers.
 </br>
 
 # Demo
+![ATM_demo](https://user-images.githubusercontent.com/77220012/173383597-8fdfcd32-7f67-4e75-a0e5-9ecd754f39f9.gif)
 
 
 </br>
@@ -48,9 +49,11 @@ python -m unittest discover [option] . ATM_test.py
     
     Top level directory of project (defaults to start directory)
     
-- **` f, -failfast **`**
+- **` f, -failfast`**
     
     Stop the test run on the first error or failure.
 
 
-**example :** 
+**example :** </br>
+![ATM_test](https://user-images.githubusercontent.com/77220012/173383727-5c51c271-eca2-4cb9-9f2c-f0892105d560.png)
+
